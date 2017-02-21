@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+article {
+    padding: 40px 0px; 
+    border-bottom: 1px solid #d2d2d2;
+}
+
+.site-header {
+	text-align: right;
+}
+
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: #929292;
+        margin-top: 5px;
+		font-size: 13px;
+    }
+}
