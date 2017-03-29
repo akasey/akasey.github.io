@@ -8,6 +8,4 @@ Well. I am Akash, just another casual guy sharing the same earth of yours. I am 
 
 About me, I'm passionate with Computers. My study focuses on Computer Software but I love to work on hardware projects as well. I'm interested with Data Science, Web Intelligence and similar stuffs. I grew up watching sci-fi, techie movies (Terminator was my fav 🙂 ). My first programming language was QBASIC back in school. I remember how I figured out toUpperCase(), toLowerCase() worked in actual and made similar methods of my own and those little stuffs made me happy. Just some memories though 🙂
 
-Contact me: its-me@shresthaakash.com.np
-
 Thank You.
