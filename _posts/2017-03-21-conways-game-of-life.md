@@ -7,11 +7,18 @@ categories:
   - Random
 ---
 
-<a href="https://en.wikipedia.org/wiki/Conway's_Game_of_Life" target="_blank">About Conway's game of life</a>
-<br />
-<a href="https://github.com/eonarheim/GameOfLife">Github</a>
+[About Conway's game of life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+
+#### Four simple rules: 
+
+* Any alive cell with less than two alive neighbours dies.
+* Any alive cell with two or three alive neighours lives on for next generation.
+* Any alive cell with more than three alive neighbours dies.
+* Any dead cell with three alive neighbour becomes alive for next generation.
+
 <!--more-->
 <canvas id="game" style="opacity:0.3; position:absolute; top:0; left:0;">
+
         Your browser does not support html5 canvas
 </canvas>
 <script type="text/javascript">
