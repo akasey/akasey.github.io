@@ -23,7 +23,7 @@ To describe the project just in a line &#8211; &#8220;We made a 3D surface and i
 
 **Surface:**
 
-Bezier Surface is the key of our surface co-ordinates. We used a Bezier Surface of third degree which gives us 16 control-points that determines the shape of the surface. For more about Bezier Surface (Read <a href="http://en.wikipedia.org/wiki/B%C3%A9zier_surface" target="_blank">here</a>). We used an input field in UI which gives us the no. of polygons to approximate the surface. Using this parameter, we can evaluate the discrete co-ordinates lying on the surface, thus gave us a finite approximation to our required surface. The control-points for the surface can be made visible and can be dragged to place it anywhere in the space, thus changing the orientation, shape of the surface.
+Bezier Surface is the key of our surface co-ordinates. We used a Bezier Surface of third degree which gives us 16 control-points that determines the shape of the surface. For more about Bezier Surface (Read <a href="https://en.wikipedia.org/wiki/B%C3%A9zier_surface" target="_blank">here</a>). We used an input field in UI which gives us the no. of polygons to approximate the surface. Using this parameter, we can evaluate the discrete co-ordinates lying on the surface, thus gave us a finite approximation to our required surface. The control-points for the surface can be made visible and can be dragged to place it anywhere in the space, thus changing the orientation, shape of the surface.
 
 {% include image.html img="assets/images/3DSpline2.jpg" caption="Wireframe of the surface" %}
 **Light Sources:**
@@ -32,7 +32,7 @@ The light sources are those which holds colour. The colour appearing in the surf
 
 **ViewPort:**
 
-We have (x,y,z) coordinates for every point. We have a so called imaginary world with fixed position for every vertices of discrete surface. For 3D viewing, we constructed a perspective viewport that transforms 3D objects to 2D perspective. For more about the calculation, read this <a href="http://en.wikipedia.org/wiki/3D_projection" target="_blank">Wiki</a>.
+We have (x,y,z) coordinates for every point. We have a so called imaginary world with fixed position for every vertices of discrete surface. For 3D viewing, we constructed a perspective viewport that transforms 3D objects to 2D perspective. For more about the calculation, read this <a href="https://en.wikipedia.org/wiki/3D_projection" target="_blank">Wiki</a>.
 
 ## Methodologies
 
